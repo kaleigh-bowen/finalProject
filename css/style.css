@@ -145,8 +145,7 @@ div#Links span {
     grid-template-rows: repeat(4,150px);
     grid-gap:30px;
     padding-top: 20px;
-    padding-left: auto;
-    padding-right: auto;
+    padding-left: 18px;
   }
 
   div#Links span {
